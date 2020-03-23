@@ -2,4 +2,4 @@
 Cascade dropdown Using JSP Servlet and AJAX
 
 Screenshot :
-![](screenshots/Untitled.png)
+![](Screenshots/Untitled.png)
